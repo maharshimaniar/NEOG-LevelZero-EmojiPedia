@@ -1,4 +1,4 @@
-# Banana Speak
+# EmojiPedia
 ### Tells the user meaning of an Emoji
 <br/>
 
